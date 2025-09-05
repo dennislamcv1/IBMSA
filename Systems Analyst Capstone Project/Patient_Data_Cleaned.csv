@@ -1,0 +1,21 @@
+PatientID,PatientName,Email,DateOfBirth,AccountID,AccountType,BranchCode,Location,RegistrationDate,OutstandingBalance
+101,Alice Johnson,alice.j@example.com,1990-05-21,ACCT-10002345,Individual,BR001,United States,1/15/2020,12000
+102,Bob Smith,bob.smith@xyz.com,1985-08-15,ACCT-10005678,Family,BR002,United States,11/30/2019,3000
+103,Cathy Davis,cathy.davis@example.com,1992-11-03,ACCT-10007891,Individual,BR003,United States,6/1/2021,8500
+104,David Lee,david.l@xyz.com,1978-02-28,ACCT-10001234,Individual,BR004,United States,3/20/2021,5000
+105,Eva Turner,No Email Provided,1989-04-07,ACCT-10003456,Family,BR005,United States,7/19/2020,0
+106,Frank Zhang,frank.zhang@xyz.com,1975-12-13,ACCT-10004567,Individual,BR006,United States,9/11/2018,7500
+107,Gina King,gina.k@example.com,1993-03-20,ACCT-10008901,Individual,BR007,Canada,1/9/2022,20000
+108,Harry Brown,harry.b@xyz.com,1987-09-15,ACCT-10006789,Family,BR008,United States,8/21/2020,3500
+109,Ivy Scott,ivy.scott@example.com,,ACCT-10009876,Individual,BR009,Canada,11/14/2021,8000
+110,John Doe,No Email Provided,1990-01-01,ACCT-10005432,Individual,BR010,United States,3/29/2022,0
+111,Karen Green,karen.g@example.com,1984-11-11,ACCT-10007654,Individual,BR011,United States,12/5/2021,6000
+112,Liam Miller,liam.m@xyz.com,1991-02-22,ACCT-10004321,Family,BR012,United Kingdom,5/25/2019,5500
+113,Mona Blue,mona.b@example.com,,ACCT-10002134,Individual,BR013,United States,1/18/2022,4000
+114,Nate White,No Email Provided,1995-10-10,ACCT-10006543,Family,BR014,Canada,6/30/2018,10000
+115,Olivia Black,olivia.b@xyz.com,1982-06-16,ACCT-10003210,Individual,BR015,United States,7/19/2021,1500
+116,Paul Walker,paul.w@example.com,1998-07-05,ACCT-10005478,Individual,BR016,Australia,9/25/2020,0
+117,Quinn Red,quinn.r@xyz.com,1979-04-22,ACCT-10008765,Individual,BR017,United Kingdom,2/14/2019,23000
+118,Rose Pink,rose.p@example.com,1986-08-08,ACCT-10002301,Family,BR018,New Zealand,3/9/2022,8700
+119,Sam Grey,sam.g@example.com,1990-09-18,ACCT-10007621,Family,BR019,United Kingdom,4/4/2020,500
+120,Tim Orange,No Email Provided,1983-12-31,ACCT-10003489,Individual,BR020,Canada,7/23/2019,9200

@@ -1,0 +1,21 @@
+AppointmentID,AccountID,AppointmentDate,AppointmentType,AppointmentFee,ClinicLocation
+201,ACCT-10002345,2022-01-05,Consultation,500,New York
+202,ACCT-10005678,2022-02-15,Follow-up,200,New York
+203,ACCT-10007891,,Consultation,300,Los Angeles
+204,ACCT-10001234,2022-04-10,Follow-up,0,Cincinnati
+205,ACCT-10003456,2022-04-30,Consultation,450,San Francisco
+206,ACCT-10004567,2022-05-20,Follow-up,100,Texas
+207,ACCT-10008901,2022-06-25,Consultation,750,Dallas
+208,ACCT-10006789,2022-07-05,Follow-up,200,Dallas
+209,ACCT-10009876,2022-08-15,Consultation,600,New York
+210,ACCT-10005432,2022-09-01,Follow-up,0,New York
+211,ACCT-10007654,2022-10-12,Consultation,400,San Francisco
+212,ACCT-10004321,2022-11-11,Follow-up,100,San Francisco
+213,ACCT-10002134,,Consultation,250,Los Angeles
+214,ACCT-10006543,2022-01-15,Consultation,1000,Cincinnati
+215,ACCT-10003210,2022-02-28,Follow-up,0,Dallas
+216,ACCT-10005478,2022-03-14,Consultation,500,Dallas
+217,ACCT-10008765,2022-04-22,Consultation,800,New York
+218,ACCT-10002301,2022-05-30,Follow-up,700,New York
+219,ACCT-10007621,2022-06-15,Consultation,350,San Francisco
+220,ACCT-10003489,2022-07-20,Follow-up,600,San Francisco
