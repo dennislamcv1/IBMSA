@@ -1,0 +1,8 @@
+ID,AccountType
+1,Individual
+2,Family
+3,Overdraft
+4,Emergency
+5,Recurring Payment
+6,Insurance
+7,Special Care

@@ -1,0 +1,127 @@
+Id,CityCode,CityName
+1,ABQ,Albuquerque
+2,AMA,Amarillo
+3,ANA,Anaheim
+4,ANC,Anchorage
+5,ARL,Arlington
+6,ATL,Atlanta
+7,AUG,Augusta
+8,AUR,Aurora
+9,AUS,Austin
+10,BAK,Bakersfield
+11,BAL,Baltimore
+12,BAT,Baton Rouge
+13,BIR,Birmingham
+14,BOI,Boise
+15,BOS,Boston
+16,BUF,Buffalo
+17,CC,Corpus Christi
+18,CC,Cape Coral
+19,CHA,Chandler
+20,CHI,Chicago
+21,CHS,Chesapeake
+22,CIN,Cincinnati
+23,CLE,Cleveland
+24,CLT,Charlotte
+25,COL,Columbus
+26,CS,Colorado Springs
+27,CV,Chula Vista
+28,DAL,Dallas
+29,DC,Washington
+30,DEN,Denver
+31,DET,Detroit
+32,DSM,Des Moines
+33,DUR,Durham
+34,ELP,El Paso
+35,FAY,Fayetteville
+36,FON,Fontana
+37,FRE,Fresno
+38,FRE,Fremont
+39,FRI,Frisco
+40,FTW,Fort Worth
+41,FW,Fort Wayne
+42,GAR,Garland
+43,GIL,Gilbert
+44,GLA,Glendale
+45,GR,Grand Rapids
+46,GRE,Greensboro
+47,HB,Huntington Beach
+48,HEN,Henderson
+49,HIA,Hialeah
+50,HNL,Honolulu
+51,HOU,Houston
+52,HUN,Huntsville
+53,IND,Indianapolis
+54,IRV,Irvine
+55,IRV,Irving
+56,JAX,Jacksonville
+57,JC,Jersey City
+58,KC,Kansas City
+59,LA,Los Angeles
+60,LAR,Laredo
+61,LB,Long Beach
+62,LEX,Lexington
+63,LNK,Lincoln
+64,LOU,Louisville
+65,LR,Little Rock
+66,LUB,Lubbock
+67,LV,Las Vegas
+68,MAD,Madison
+69,MCK,McKinney
+70,MEM,Memphis
+71,MES,Mesa
+72,MIA,Miami
+73,MIL,Milwaukee
+74,MOD,Modesto
+75,MON,Montgomery
+76,MSP,Minneapolis
+77,MV,Moreno Valley
+78,NLV,North Las Vegas
+79,NO,New Orleans
+80,NOR,Norfolk
+81,NSH,Nashville
+82,NWK,Newark
+83,NY,New York
+84,OAK,Oakland
+85,OKC,Oklahoma City
+86,OMA,Omaha
+87,ORL,Orlando
+88,OXN,Oxnard
+89,PDX,Portland
+90,PHL,Philadelphia
+91,PHX,Phoenix
+92,PIT,Pittsburgh
+93,PLA,Plano
+94,PSL,Port St. Lucie
+95,RAL,Raleigh
+96,REN,Reno
+97,RIC,Richmond
+98,RIV,Riverside
+99,ROC,Rochester
+100,SA,Santa Ana
+101,SAC,Sacramento
+102,SAT,San Antonio
+103,SBD,San Bernardino
+104,SC,Scottsdale
+105,SC,Santa Clarita
+106,SD,San Diego
+107,SEA,Seattle
+108,SF,San Francisco
+109,SJ,San Jose
+110,SLC,Salt Lake City
+111,SP,St. Paul
+112,SPB,St. Petersburg
+113,SPO,Spokane
+114,STK,Stockton
+115,STL,St. Louis
+116,TAC,Tacoma
+117,TEM,Tempe
+118,TOL,Toledo
+119,TPA,Tampa
+120,TUC,Tucson
+121,TUL,Tulsa
+122,TX,Texas
+123,VB,Virginia Beach
+124,WIC,Wichita
+125,WS,Winston-Salem
+126,YON,Yonkers
