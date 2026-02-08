@@ -1,5 +1,5 @@
 # IBMSA
-## IBM Systems Analyst Professional Certificate (8 course series)
+## IBM Systems Analyst Professional Certificate (9 course series)
 
 Demand for systems analysts is growing much faster than the average for all occupations (US Bureau of Labor Statistics). Professionals with the right skills are in high demand! This IBM Professional Certificate gives you the job-aligned skills employers are looking for in just 4 months.
 
